@@ -1,6 +1,6 @@
 # Awesome-Semantic-Layer-Platform
 
-# Similar Projects to Semantic Layer Platforms
+## Similar Projects to Semantic Layer Platforms
 
 **Semantic Layer Platforms** provide a consistent, governed layer of business metrics and definitions on top of data warehouses. They enable a single source of truth for metrics that can be consumed by BI tools, embedded analytics, AI agents, and applications via SQL, APIs, or other interfaces. Leading platforms and approaches include dbt Cloud MetricFlow / dbt Semantic Layer, AtScale, Cube, Honeydew, Transform, Omni, GoodData Semantic Layer, Looker Semantic Model (LookML), Power BI Semantic Models, Metric Insights, Kyvos, and Hex Metrics.
 
@@ -8,11 +8,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[dbt Semantic Layer / MetricFlow](https://www.getdbt.com/product/semantic-layer)** — Metrics defined in dbt projects and served through dbt Cloud (MetricFlow is the open-source engine).
-- **[Cube](https://cube.dev/)** — Popular headless BI and semantic layer platform with strong API, caching, and embedded analytics capabilities (open-source core available).
-- **[AtScale](https://www.atscale.com/)** — Enterprise semantic / virtual OLAP layer with broad BI tool compatibility (MDX/DAX/SQL).
-- **[Honeydew](https://honeydew.ai/)**, **[Transform](https://transform.co/)**, **[Omni](https://omni.co/)**, **[GoodData](https://www.gooddata.com/)** — Modern semantic modeling and metrics platforms.
-- **Looker (LookML)**, **Power BI Semantic Models**, **Metric Insights**, **Kyvos**, **Hex Metrics** — Platform-native or specialized semantic modeling approaches inside major BI and analytics tools.
+| Platform | Description | Pricing / Free Tier Limit |
+| :--- | :--- | :--- |
+| **[dbt Semantic Layer / MetricFlow](https://www.getdbt.com/product/semantic-layer)** | Metrics defined in dbt projects and served through dbt Cloud. | Free Developer tier (1 developer seat, 1 project); Paid starts at $100/mo. |
+| **[Cube](https://cube.dev/)** | Headless BI and semantic layer platform with strong API, caching, embedded analytics. | Free Developer tier (1 deployment, up to 1GB data passed); Paid starts at $99/mo. |
+| **[AtScale](https://www.atscale.com/)** | Enterprise semantic / virtual OLAP layer with broad BI tool compatibility. | Enterprise pricing (Contact Sales). No free tier. |
+| **[Honeydew](https://honeydew.ai/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). |
+| **[Transform](https://transform.co/)** | Modern semantic modeling and metrics platform. | N/A (Acquired by dbt Labs). |
+| **[Omni](https://omni.co/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). |
+| **[GoodData](https://www.gooddata.com/)** | Modern semantic modeling and metrics platform. | Free tier available (up to 5 workspaces); Paid starts at $1,500/mo. |
+| **Looker (LookML)** | Platform-native semantic modeling inside major BI and analytics tools. | Enterprise pricing (Contact Sales). |
+| **Power BI Semantic Models** | Platform-native semantic modeling inside major BI and analytics tools. | Power BI Desktop is free; Pro starts at $10/user/mo. |
+| **Metric Insights** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). |
+| **Kyvos** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). |
+| **Hex Metrics** | Platform-native semantic modeling inside major BI and analytics tools. | Community tier is free (up to 3 projects, 5 authors); Paid starts at $36/user/mo. |
 
 ## 🔓 Open-Source Software
 

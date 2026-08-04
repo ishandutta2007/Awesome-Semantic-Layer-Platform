@@ -1,3 +1,5 @@
+![Awesome Semantic Layer](assets/banner.svg)
+
 # Awesome-Semantic-Layer-Platform
 
 ## Similar Projects to Semantic Layer Platforms

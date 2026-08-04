@@ -8,20 +8,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing / Free Tier Limit |
-| :--- | :--- | :--- |
-| **[dbt Semantic Layer / MetricFlow](https://www.getdbt.com/product/semantic-layer)** | Metrics defined in dbt projects and served through dbt Cloud. | Free Developer tier (1 developer seat, 1 project); Paid starts at $100/mo. |
-| **[Cube](https://cube.dev/)** | Headless BI and semantic layer platform with strong API, caching, embedded analytics. | Free Developer tier (1 deployment, up to 1GB data passed); Paid starts at $99/mo. |
-| **[AtScale](https://www.atscale.com/)** | Enterprise semantic / virtual OLAP layer with broad BI tool compatibility. | Enterprise pricing (Contact Sales). No free tier. |
-| **[Honeydew](https://honeydew.ai/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). |
-| **[Transform](https://transform.co/)** | Modern semantic modeling and metrics platform. | N/A (Acquired by dbt Labs). |
-| **[Omni](https://omni.co/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). |
-| **[GoodData](https://www.gooddata.com/)** | Modern semantic modeling and metrics platform. | Free tier available (up to 5 workspaces); Paid starts at $1,500/mo. |
-| **Looker (LookML)** | Platform-native semantic modeling inside major BI and analytics tools. | Enterprise pricing (Contact Sales). |
-| **Power BI Semantic Models** | Platform-native semantic modeling inside major BI and analytics tools. | Power BI Desktop is free; Pro starts at $10/user/mo. |
-| **Metric Insights** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). |
-| **Kyvos** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). |
-| **Hex Metrics** | Platform-native semantic modeling inside major BI and analytics tools. | Community tier is free (up to 3 projects, 5 authors); Paid starts at $36/user/mo. |
+| Platform | Description | Pricing / Free Tier Limit | Company Size / Valuation |
+| :--- | :--- | :--- | :--- |
+| **Power BI Semantic Models** | Platform-native semantic modeling inside major BI and analytics tools. | Power BI Desktop is free; Pro starts at $10/user/mo. | ~$3T (Microsoft) |
+| **Looker (LookML)** | Platform-native semantic modeling inside major BI and analytics tools. | Enterprise pricing (Contact Sales). | ~$2T (Google) |
+| **[dbt Semantic Layer / MetricFlow](https://www.getdbt.com/product/semantic-layer)** | Metrics defined in dbt projects and served through dbt Cloud. | Free Developer tier (1 developer seat, 1 project); Paid starts at $100/mo. | ~$4.2B |
+| **[Transform](https://transform.co/)** | Modern semantic modeling and metrics platform. | N/A (Acquired by dbt Labs). | ~$4.2B (dbt) |
+| **[Cube](https://cube.dev/)** | Headless BI and semantic layer platform with strong API, caching, embedded analytics. | Free Developer tier (1 deployment, up to 1GB data passed); Paid starts at $99/mo. | ~$500M |
+| **[AtScale](https://www.atscale.com/)** | Enterprise semantic / virtual OLAP layer with broad BI tool compatibility. | Enterprise pricing (Contact Sales). No free tier. | ~$500M |
+| **[Hex Metrics](https://hex.tech)** | Platform-native semantic modeling inside major BI and analytics tools. | Community tier is free (up to 3 projects, 5 authors); Paid starts at $36/user/mo. | ~$300M |
+| **[GoodData](https://www.gooddata.com/)** | Modern semantic modeling and metrics platform. | Free tier available (up to 5 workspaces); Paid starts at $1,500/mo. | ~$300M |
+| **[Omni](https://omni.co/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). | ~$100M |
+| **Kyvos** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). | ~$50M |
+| **Metric Insights** | Platform-native semantic modeling inside major BI and analytics tools. | Custom pricing (Contact Sales). | ~$50M |
+| **[Honeydew](https://honeydew.ai/)** | Modern semantic modeling and metrics platform. | Custom pricing (Contact Sales). | ~$10M |
 
 ## 🔓 Open-Source Software
 

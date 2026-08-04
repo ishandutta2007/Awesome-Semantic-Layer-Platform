@@ -2,7 +2,7 @@
 
 # Awesome-Semantic-Layer-Platform
 
-## Similar Projects to Semantic Layer Platforms
+## 🔍 Similar Projects to Semantic Layer Platforms
 
 **Semantic Layer Platforms** provide a consistent, governed layer of business metrics and definitions on top of data warehouses. They enable a single source of truth for metrics that can be consumed by BI tools, embedded analytics, AI agents, and applications via SQL, APIs, or other interfaces. Leading platforms and approaches include dbt Cloud MetricFlow / dbt Semantic Layer, AtScale, Cube, Honeydew, Transform, Omni, GoodData Semantic Layer, Looker Semantic Model (LookML), Power BI Semantic Models, Metric Insights, Kyvos, and Hex Metrics.
 
@@ -27,13 +27,13 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Core Open-Source Semantic / Metrics Layers
+### 🛠️ Core Open-Source Semantic / Metrics Layers
 - **[Cube Core](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) — The leading open-source (Apache 2.0) semantic layer and headless BI platform. Define metrics in YAML/JavaScript, serve them via SQL, REST, GraphQL, and more, with built-in caching and pre-aggregations. Fully self-hostable.
 - **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers) — Open-source BI tool that turns dbt models and metrics into a governed exploration experience. Excellent companion when you want an open-source consumption layer on top of dbt + MetricFlow.
 - **[MetricFlow](https://github.com/dbt-labs/metricflow)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/metricflow?style=social&color=white)](https://github.com/dbt-labs/metricflow/stargazers) — Open-source metrics engine developed by dbt Labs. Powers the dbt Semantic Layer and allows defining reusable metrics in YAML that compile to efficient SQL.
 - Emerging universal metrics runtimes (such as Sidemantic) that aim to import and serve models from multiple formats (Cube, MetricFlow, LookML, etc.).
 
-### Related Open-Source Projects
+### 🔗 Related Open-Source Projects
 - **Malloy** — Open-source experimental language for describing data relationships and nested queries (useful in semantic modeling contexts).
 - Open-source BI platforms (Apache Superset, Metabase, etc.) that can consume well-modeled data and, in some cases, integrate with metrics layers.
 - Community tools for converting or managing semantic models across formats as the Open Semantic Interchange (OSI) ecosystem matures.

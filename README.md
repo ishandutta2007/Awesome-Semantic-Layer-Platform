@@ -1,6 +1,6 @@
 ![Awesome Semantic Layer](assets/banner.svg)
 
-# Awesome-Semantic-Layer-Platform
+# Awesome Semantic Layer Platform: A Curated List of Headless BI and Metrics Layers
 
 ## 🔍 Similar Projects to Semantic Layer Platforms
 
